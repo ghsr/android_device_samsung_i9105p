@@ -9,13 +9,13 @@
         "remote": "github",
         "repository": "ghsr/android_kernel_samsung_galaxys2plus-common",
         "target_path": "kernel/samsung/galaxys2plus-common",
-        "revision": "cm-12.1"
+        "revision": "android-5.1"
     },
     {
         "remote": "github",
         "repository": "ghsr/proprietary_vendor_samsung_galaxys2plus-common",
         "target_path": "vendor/samsung/galaxys2plus-common",
-        "revision": "cm-12.1"
+        "revision": "android-5.1"
     },
     {
         "remote": "github",
